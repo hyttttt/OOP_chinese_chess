@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test.vcxproj -> C:\Users\88696\Desktop\台科\大二下\物件導向實習\OOP_chinese_chess\OOP_chinese_chess\Debug\chinese_chess.exe
